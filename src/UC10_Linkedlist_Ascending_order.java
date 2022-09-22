@@ -67,7 +67,7 @@ public class UC10_Linkedlist_Ascending_order {
     public void deleteANode(int value) {
 
         if (this.head == null) {
-            System.out.println("Sorry no data !!!");
+            System.out.println("Sorry, no data !!!");
             return;
         }
         Node tempNode = head;
