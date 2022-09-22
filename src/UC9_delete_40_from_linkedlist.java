@@ -6,7 +6,7 @@ public class UC9_delete_40_from_linkedlist {
 
     public Linkedlist<?> add(int data) {
         /**
-         * checking whether linkedlist is empty or not if empty creating new node
+         * checking whether 'linkedlist' is empty or not if empty creating new node
          * (adding)
          */
         Node newNode = new Node(data);
